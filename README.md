@@ -21,7 +21,7 @@ Minimalist Java desktop app to track one's productivity throughout the day, usin
 # Tools Used:
 1. JavaFX
 2. Java 8.0
-3. NetBeans 8.2
+3. Visual Studio
 4. Gluon theme (charm-glisten-4.4.1.jar) from [here](http://nexus.gluonhq.com/nexus/content/repositories/releases/com/gluonhq/charm-glisten/4.4.1/)
 5. Windows 10
 
